@@ -1,0 +1,59 @@
+# Task-1.2
+
+## Description
+Task-1.2 is a simple project designed to demonstrate the creation of a `.gitignore` file and a `README.md` file, along with the process of committing and pushing changes to a GitHub repository.
+
+This project is useful for understanding basic Git concepts and ensuring best practices in managing files and documentation.
+
+## Installation Steps
+Follow these steps to set up the project:
+
+1. **Clone the Repository**  
+   First, clone the repository from GitHub using the following command:
+   ```bash
+   git clone <repository_url>
+
+Navigate to the Project Directory
+Change your directory to the cloned project folder:
+bash
+Copy
+Edit
+cd Task-1.2
+
+Install Dependencies (If Applicable)
+If the project uses any Node.js dependencies, install them using:
+bash
+Copy
+Edit
+npm install
+
+Create a .env File
+If the project requires environment variables, create a .env file in the root directory:
+bash
+Copy
+Edit
+touch .env
+Add your variables in the following format:
+
+ini
+Copy
+Edit
+KEY=value
+ANOTHER_KEY=another_value
+
+Usage
+To start and run the project, use the following command:
+
+bash
+Copy
+Edit
+npm start
+
+Additional Information
+Make sure you have Node.js installed if applicable.
+
+Ensure your .gitignore file contains appropriate patterns to exclude unnecessary files like node_modules/, .log files, or .env files.
+
+For further contributions or issues, refer to the project documentation or submit a pull request.
+
+
