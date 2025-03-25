@@ -1,1 +1,3 @@
 SCM TasK 1.2
+Forking an existing repository which was not owned by owner.
+And then generate a pull request to the owner to changes to be changed.
