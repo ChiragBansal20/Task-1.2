@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Change from main to Branch1-1.
+=======
+Change from main to Branch1-2.
+>>>>>>> Branch1-2
